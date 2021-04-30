@@ -1,0 +1,8 @@
+.searchBar{
+    display: flex;
+    margin: .2rem 0
+}
+
+.tabs{
+ padding: 1rem;
+}

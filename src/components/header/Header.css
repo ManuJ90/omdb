@@ -1,0 +1,27 @@
+.header {
+  width: 100%;
+  cursor: pointer;
+  position: fixed;
+  display: flex;
+
+  justify-content: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5rem;
+  text-align: center;
+  color: #cdcdcd;
+  text-shadow: 0 0 0.5rem black;
+
+  letter-spacing: 0.5rem;
+
+  z-index: 100;
+
+  line-height: 3rem;
+
+  background: #86868640;
+  box-shadow: 0 8px 32px 0 #f48fb141;
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border: 1px solid #ffffff2e;
+}
+
+
